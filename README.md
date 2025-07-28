@@ -1,4 +1,7 @@
-## Hi there 👋
+Welcome to my profile, I'm Wojciech!
+I'm an A Level student based in the UK with a passion for all things computers.
+Right now, I'm working on various projects in Rust, and learning functional programming with Haskell.
+Check out [my website](https://bronakowski.com) for more details on contacting me.
 
 <!--
 **wbr8/wbr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

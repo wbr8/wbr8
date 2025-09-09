@@ -1,5 +1,5 @@
-Welcome to my profile, I'm Wojciech!
-I'm an A Level student based in the UK with a passion for all things computers.
+Welcome to my profile, I'm Wojciech;
+I am an A Level student based in the UK with a passion for all things computers.
 Right now, I'm working on various projects in Rust, and learning functional programming with Haskell.
 Check out [my website](https://bronakowski.com) for more details on contacting me.
 
